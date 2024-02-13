@@ -45,3 +45,7 @@ Thereafter summarizing everything into three dashboards first one focussing on D
 
 
 <h2>How to Use this Repository</h2>
+<b>1. Clone the Repository:</b> Clone this repository to your local machine to access all project files.<br>
+<b>2. Data:</b> Find the preprocessed and engineered global population dataset in the designated directory.<br>
+<b>3. Visualization:</b> Explore the interactive dashboards to gain insights into global population dynamics.<br>
+<b>4. Summary and Analysis:</b> Refer to the summary dashboard for a comprehensive overview of our findings and analysis.
